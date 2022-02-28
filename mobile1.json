@@ -1,0 +1,31 @@
+{
+    "Bedsheet": [
+        {
+            "productname": "zsvdc",
+            "productid": "34",
+            "category": "Bedsheet",
+            "purchaselink": "ASD",
+            "texture": "http:\/\/localhost\/connection\/texture\/bedroom.jpg",
+            "image": "http:\/\/localhost\/connection\/image\/bg5.png",
+            "models": "http:\/\/localhost\/connection\/zsvdc.zip"
+        },
+        {
+            "productname": "zsvdc",
+            "productid": "34",
+            "category": "Bedsheet",
+            "purchaselink": "ASD",
+            "texture": "http:\/\/localhost\/connection\/texture\/bedroom.jpg",
+            "image": "http:\/\/localhost\/connection\/image\/bg5.png",
+            "models": "http:\/\/localhost\/connection\/zsvdc.zip"
+        },
+        {
+            "productname": "zsvdcawresfd",
+            "productid": "34          ",
+            "category": "Bedsheet",
+            "purchaselink": "ASD",
+            "texture": "http:\/\/localhost\/connection\/texture\/bedroom.jpg",
+            "image": "http:\/\/localhost\/connection\/image\/bg5.png",
+            "models": "http:\/\/localhost\/connection\/zsvdc.zip"
+        }
+    ]
+}
